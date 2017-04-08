@@ -1,0 +1,8 @@
+C:\Users\jyc\Documents\Visual Studio 2017\Projects\LinuxShop\LinuxShop\bin\Release\netcoreapp1.1\LinuxShop.deps.json
+C:\Users\jyc\Documents\Visual Studio 2017\Projects\LinuxShop\LinuxShop\bin\Release\netcoreapp1.1\LinuxShop.runtimeconfig.json
+C:\Users\jyc\Documents\Visual Studio 2017\Projects\LinuxShop\LinuxShop\bin\Release\netcoreapp1.1\LinuxShop.runtimeconfig.dev.json
+C:\Users\jyc\Documents\Visual Studio 2017\Projects\LinuxShop\LinuxShop\bin\Release\netcoreapp1.1\LinuxShop.dll
+C:\Users\jyc\Documents\Visual Studio 2017\Projects\LinuxShop\LinuxShop\bin\Release\netcoreapp1.1\LinuxShop.pdb
+C:\Users\jyc\Documents\Visual Studio 2017\Projects\LinuxShop\LinuxShop\obj\Release\netcoreapp1.1\LinuxShop.AssemblyInfo.cs
+C:\Users\jyc\Documents\Visual Studio 2017\Projects\LinuxShop\LinuxShop\obj\Release\netcoreapp1.1\LinuxShop.dll
+C:\Users\jyc\Documents\Visual Studio 2017\Projects\LinuxShop\LinuxShop\obj\Release\netcoreapp1.1\LinuxShop.pdb
