@@ -6,3 +6,6 @@ C:\Users\jyc\Documents\Visual Studio 2017\Projects\LinuxShop\LinuxShop\bin\Relea
 C:\Users\jyc\Documents\Visual Studio 2017\Projects\LinuxShop\LinuxShop\obj\Release\netcoreapp1.1\LinuxShop.AssemblyInfo.cs
 C:\Users\jyc\Documents\Visual Studio 2017\Projects\LinuxShop\LinuxShop\obj\Release\netcoreapp1.1\LinuxShop.dll
 C:\Users\jyc\Documents\Visual Studio 2017\Projects\LinuxShop\LinuxShop\obj\Release\netcoreapp1.1\LinuxShop.pdb
+C:\Users\jyc\Documents\Visual Studio 2017\Projects\LinuxShop\LinuxShop\obj\Release\netcoreapp1.1\LinuxShop.csprojResolveAssemblyReference.cache
+C:\Users\jyc\Documents\Visual Studio 2017\Projects\LinuxShop\LinuxShop\bin\Release\netcoreapp1.1\logfile\20170417.log
+C:\Users\jyc\Documents\Visual Studio 2017\Projects\LinuxShop\LinuxShop\bin\Release\netcoreapp1.1\UpLoadImg\HeadImg\58e9f601c8f95171422e436d.png.png
